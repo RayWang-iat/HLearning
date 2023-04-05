@@ -1,0 +1,16 @@
+
+*.docx
+__pycache__
+.idea
+.idea/workspace.xml
+docx
+*.ini
+layout
+.vscode/settings.json
+setup.py
+bestpkg
+build
+dist
+PrimarySchoolMath.egg-info
+PSM
+config.ini
